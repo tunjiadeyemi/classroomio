@@ -40,6 +40,7 @@
     "bits-ui": "^2.14.4",
     "body-parser": "^1.20.2",
     "bufferutil": "^4.0.9",
+    "@better-auth/sso": "^1.4.18",
     "canvas-confetti": "^1.6.0",
     "color2k": "^2.0.3",
     "cookie-parser": "^1.4.6",
@@ -60,6 +61,7 @@
     "openai-edge": "^1.2.2",
     "papaparse": "^5.4.1",
     "pluralize": "^8.0.0",
+    "plyr": "^3.7.8",
     "posthog-js": "^1.180.1",
     "sirv": "^2.0.3",
     "stripe": "^14.22.0",
@@ -69,7 +71,6 @@
     "tldts": "^6.1.41",
     "unsplash-js": "^7.0.18",
     "utf-8-validate": "^6.0.5",
-    "plyr": "^3.7.8",
     "wait-on": "^7.0.1",
     "zod": "^4.1.8"
   },
